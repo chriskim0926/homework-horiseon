@@ -4,7 +4,7 @@ Horiseon Informative Webpage. Webpage will display Horiseon service and products
 
 ## Installation
 1)Body contained - two section / Aside contained - three asides / Footer - no section
-2)CSS includes a set of Styling located in the C:\Users\chris\gt-pt\homework\homework-horiseon\assets\css\style.css folder, including font, font size, font color, positioning, margin, padding, boarder, back ground color, and floats.
+2)CSS includes a set of Styling located in the homework-horiseon\assets\css\style.css folder, including font, font size, font color, positioning, margin, padding, boarder, back ground color, and floats.
 
 ## Usage
 1) Top Navigator will direct vistor to details located on the same page in body. 

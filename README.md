@@ -8,6 +8,7 @@ Horiseon Informative Webpage. Webpage will display Horiseon service and products
 
 ## Usage
 1) Top Navigator will direct vistor to details located on the same page in body. 
+![](assets/images/Capture.PNG)
 
 ## DEVELOPMENT
 CSS includes a set of Styling located in the C:\Users\chris\gt-pt\homework\homework-horiseon\assets\css\style.css folder, including font, font size, font color, positioning, margin, padding, boarder, back ground color, and floats.

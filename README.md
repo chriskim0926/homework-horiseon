@@ -8,7 +8,7 @@ Horiseon Informative Webpage. Webpage will display Horiseon service and products
 
 ## Usage
 1) Top Navigator will direct vistor to details located on the same page in body. 
-![GitHub Logo](/images/Capture.png)
+![LOGO](homework-horiseon\assets\images\Capture.PNG)
 Format: ![Alt Text](https://chriskim0926.github.io/homework-horiseon/)
 
 ## DEVELOPMENT

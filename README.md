@@ -8,6 +8,11 @@ Horiseon Informative Webpage. Webpage will display Horiseon service and products
 
 ## Usage
 1) Top Navigator will direct vistor to details located on the same page in body. 
+<<<<<<< HEAD
+=======
+![LOGO](homework-horiseon\assets\images\Capture.PNG)
+Format: ![Alt Text](https://chriskim0926.github.io/homework-horiseon/)
+>>>>>>> 0ff26fce7bd89ebe3d30d98d3f803d4755257ddd
 
 ## DEVELOPMENT
 CSS includes a set of Styling located in the C:\Users\chris\gt-pt\homework\homework-horiseon\assets\css\style.css folder, including font, font size, font color, positioning, margin, padding, boarder, back ground color, and floats.
